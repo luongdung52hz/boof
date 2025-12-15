@@ -1,4 +1,4 @@
-# lingua_socialnetwork
+# bof_app
 
 A new Flutter project.
 
